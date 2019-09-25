@@ -14,4 +14,7 @@
 >所有結果皆使用官方提供的testbench模擬
 
 ## 模擬波形圖
+### 第一筆資料測試
 ![Alt text](https://github.com/Dozis/FPGA_Group_6/blob/master/HW00/image/%E7%AC%AC%E4%B8%80%E7%AD%86%E8%B3%87%E6%96%99%E6%B8%AC%E8%A9%A6.png?raw=true)
+### 第二筆資料測試
+![Alt text](https://github.com/Dozis/FPGA_Group_6/blob/master/HW00/image/%E7%AC%AC%E4%BA%8C%E7%AD%86%E8%B3%87%E6%96%99%E6%B8%AC%E8%A9%A6.png?raw=true)
