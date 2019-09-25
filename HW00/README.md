@@ -12,4 +12,6 @@
 ![ALt text](https://github.com/Dozis/FPGA_Group_6/blob/master/HW00/image/%E6%8A%95%E5%BD%B1%E7%89%871.JPG?raw=true)
 ## 模擬結果圖
 >所有結果皆使用官方提供的testbench模擬
+
 ## 模擬波形圖
+![Alt text](https://github.com/Dozis/FPGA_Group_6/blob/master/HW00/image/%E7%AC%AC%E4%B8%80%E7%AD%86%E8%B3%87%E6%96%99%E6%B8%AC%E8%A9%A6.png?raw=true)
