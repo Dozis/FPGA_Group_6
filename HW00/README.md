@@ -9,7 +9,7 @@
 
 ## 設計說明
 # FSM State Diagram
-
+![ALt text](https://github.com/Dozis/FPGA_Group_6/blob/master/HW00/image/%E6%8A%95%E5%BD%B1%E7%89%871.JPG?raw=true)
 ## 模擬結果圖
 >所有結果皆使用官方提供的testbench模擬
 ## 模擬波形圖
